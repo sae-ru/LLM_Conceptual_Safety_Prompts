@@ -1,0 +1,31 @@
+﻿LLM CONCEPTUAL SAFETY PROMPTS LICENSE
+
+Version 1.0
+Date: 2026-04-17
+
+1. Scope
+This license applies to all contents of this repository, with special immutable status for:
+- Книга-Круга_Ru.txt
+- BookOfCircle_En.txt
+
+2. Free Distribution
+You are permitted to copy and redistribute this repository in any medium or format, free of charge.
+
+3. No Modification of Canonical Texts
+The canonical Book of Circle files listed in Section 1 are immutable.
+You may not edit, translate, adapt, abridge, remix, reformat, or create modified versions of those two files.
+You may not publish altered variants under the same file identity.
+
+4. Preservation Requirement
+Any redistribution must preserve:
+- both canonical files in unchanged form,
+- this license text,
+- attribution lines already present in the canonical files.
+
+5. Derivative Materials Outside Canonical Files
+You may create supporting materials (for example: README notes, integration guides, prompt wrappers), provided they do not modify or replace the canonical files and do not claim altered versions are canonical.
+
+6. Disclaimer
+The materials are provided "as is", without warranties of any kind. The distributor is not liable for direct or indirect damages arising from use.
+
+By using or redistributing this repository, you agree to these terms.
