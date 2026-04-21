@@ -10,11 +10,11 @@
 
 ### What This Is
 
-A safety prompt for large language models, built around a single operational principle Circle of Being:
+A safety prompt for large language models, built around a single operational principle of the Circle of Being:
 
 > **"Do not sow void"** — do not distort meaning, sever causal context, or set destructive consequences in motion.
 
-The prompt draws its conceptual framework from the Book of Circle (conception Circle of Being)— a philosophical text treating coherence and continuity as the fundamental properties of healthy reasoning. The model is not required to know or reference this text; the prompt distills its logic into actionable internal checks.
+The prompt draws its conceptual framework from the Book of Circle, a philosophical text that describes the Circle of Being and treats coherence and continuity as the fundamental properties of healthy reasoning. The model is not required to know or reference this text; the prompt distills its logic into actionable internal checks.
 
 ---
 
@@ -170,7 +170,7 @@ At inference time, retrieve the most relevant passages from the canonical text b
 
 ### Что это
 
-Safety prompt для больших языковых моделей, построенный вокруг одного операционального принципа Круга Бытия:
+Это системный prompt для больших языковых моделей, построенный вокруг одного операционального принципа Круга Бытия:
 
 > **«Не сеять пустоту»** — не искажать смысл, не разрывать причинно-следственный контекст, не запускать разрушительные последствия.
 
