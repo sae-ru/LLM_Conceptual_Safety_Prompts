@@ -1,6 +1,6 @@
 # LLM Conceptual Safety Prompts 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19682399.svg)](https://doi.org/10.5281/zenodo.19682399)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19700020.svg)](https://doi.org/10.5281/zenodo.19700020)
 
 [English](#english) | [Русский](#русский)
 
